@@ -1,0 +1,3 @@
+class Fileimport < ApplicationRecord
+
+end
